@@ -18,3 +18,6 @@ console.log("AND lógico:", booleano);
 console.log("AND lógico:", !booleano);
 console.log(`La suma de ${ten} + ${three}:`, ten + three);
 console.log(`La resta de ${ten} - ${three}:`, ten - three);
+console.log(`La multiplicación de ${ten} * ${three}:`, ten * three);
+console.log(`La división de ${ten} / ${three}:`, ten / three);
+console.log(`${ten} módulo de ${three}:`, ten % three);
