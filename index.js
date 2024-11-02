@@ -13,3 +13,5 @@ console.log(`¿El número ${ten} es menor que el número ${five}?`, ten < five);
 console.log(`¿El número ${one} es igual que el número ${two}?`, one == two);
 console.log(`¿El texto ${text1} es igual al texto ${text2}?`, one == two);
 console.log("¿Los objetos son iguales?", booleano);
+console.log("AND lógico:", booleano);
+console.log("AND lógico:", !booleano);
